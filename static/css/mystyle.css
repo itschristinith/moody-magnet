@@ -1,0 +1,136 @@
+
+h4{
+	font-family: 'Courier New';
+	top: 700px; 
+	font-size: 40px; 
+	text-align: center;
+}
+
+body {
+	background-image: url("/static/img/sitebg3outline-01.png");
+	background-size: 150% auto;
+}
+
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#banner {
+	/*background-image: url ("/static/img/banner_moody.png"); */
+	position: absolute;
+
+}
+
+#container {
+	width: 960px; 
+	height: 960px; 
+	margin: 0 auto 0 auto;
+}
+
+#content {
+	width: 500px;
+	padding: 10px;
+	position: relative;
+	float: left;
+	background-image: url ("/static/img/banner_moody.png"); 
+
+}
+
+
+#input {
+	position: relative;
+	top: 80px; 
+	left: 140px;
+	height: 400px;
+	width: 650px;
+	border-radius: 10px;
+	/*border-color: #FF0000;
+	border-width: 2px;*/
+	font-family: 'Courier New';
+	font-weight: 20px; 
+	font-size: 17px; 
+	background-color: rgba(100,100,100,0.2);
+	
+}
+
+
+
+#button{
+	position: absolute;
+	font-family: 'Courier New';
+	font-color: white;
+	font-size: 20px;
+	width: 650px;
+	top: 510px;
+	right: -284px;
+	background-color: #FF0000;
+	border-radius: 10px;
+
+}
+
+#more{
+	position: absolute;
+	font-family: 'Courier New';
+	font-color: white;
+	font-size: 20px;
+	top: 110px;
+	right: 520px;
+	background-color: #FF0000;
+
+}
+
+#inspiration{
+	position: absolute;
+	font-color: #FFFFFF;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 20px;
+	
+	top: 100px;
+	right: -260px;
+	background-color: #808080;
+	border-radius: 10px;
+
+}
+
+#footer {
+	width: 925px;
+	background-color: #ccc;
+	position: relative;
+	float: left;
+	padding: 10px;
+	bottom: 400px;
+	left: 145px;
+}
+
+.footerClass p {
+	font-size: 15px;
+	font-family: "Courier New";
+}
+.images {
+	
+	position:absolute;
+	top: 170px;
+	right: -260px;
+	height:300px;
+	width: 220px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
